@@ -2,6 +2,8 @@
 title: "assignment-3-ch2279"
 ---
 
-This is a Quarto website.
+Contributors: Connor Hannig, Nika Self
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+A Cornell course project website!
+
+![](https://www.cornell.edu/about/img/main-Tower1.Still001-720x.jpg){width="350"}
