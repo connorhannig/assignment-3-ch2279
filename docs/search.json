@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "assignment-3-ch2279",
-    "section": "",
-    "text": "Contributors: Connor Hannig, Nika Self\nA Cornell course project website!"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Connor Hannig",
     "section": "",
     "text": "About me:\n\nI am a full time employee at Cornell Biological Field Station (CBFS) on Shackelton point Oneida Lake.\nI study Great Lakes zooplankton, and sample all five Great lakes twice a year with vertical zooplankton tows. The rest of the year I am analyzing the samples, identifying crustacians to species and measuring them.\nOutside of work I am enthusiastic about backpacking, I have hiked the Appalachian Trail northbound from Georgia to Maine in 2019. I also hiked the Vermont Long Trail in 2022. Currently I am working on my North East (NE) 115, hiking all mountains in the NE over 4,000 ft. My progress on that is 63/115.\nI live in North Syracuse with my partner and two cats, a tuxedo domestic short-hair named Gunter, and a Siberian forest cat named Egg."
+  },
+  {
+    "objectID": "nikaself.html",
+    "href": "nikaself.html",
+    "title": "Nika Self",
+    "section": "",
+    "text": "Here are some fun facts about Cornell, provided to you by Nika Self:\n\nWhen Stanford visited Cornell, he was so inspired that when Stanford was built the structure of the institution was modeled after Cornell. For awhile Stanford was called the Cornell of the West.\nThere is a debate between Ithaca New York and Two Rivers Wisconsin over the birthplace of the ice cream sundae. Ithaca has written proof of the sundae being made in 1892, while Two Rivers has oral reports of the sundae in 1881.\nIthaca has three drinking water plants, which is an unusually high amount for the population. You would expect one. Cornell has it’s one with the water coming from Fall creek, the main treatment plant gets it’s water from Cayuga lake and the smallest one gets it’s water from six mile creek."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "assignment-3-ch2279",
+    "section": "",
+    "text": "Contributors: Connor Hannig, Nika Self\nA Cornell course project website!"
   }
 ]
