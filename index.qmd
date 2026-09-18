@@ -2,7 +2,11 @@
 title: "assignment-3-ch2279"
 ---
 
-Contributors: Connor Hannig, Nika Self
+Contributors:
+
+- Nika Self — [GitHub](https://github.com/nikaself602)
+
+- Connor Hanning — [GitHub](https://github.com/connorhannig)
 
 A Cornell course project website!
 
